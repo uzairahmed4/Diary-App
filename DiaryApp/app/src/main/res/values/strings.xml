@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">DiaryApp</string>
+    <string name="viewAllNotes">View All Notes</string>
+    <string name="Back">Back</string>
+    <string name="selectDate">Select Date</string>
+    <string name="next">Next</string>
+    <string name="writeNote">Write Note</string>
+    <string name="clear">Clear</string>
+    <string name="addNoteButton">Add Note</string>
+    <string name="allNotes">All Notes</string>
+    <string name="deleteNoteButton">Delete</string>
+    <string name="filterNoteButton">Filter</string>
+    <string name="deleteAllButton">Delete All</string>
+    <string name="updateNoteButton">Update</string>
+</resources>
