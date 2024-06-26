@@ -10,3 +10,10 @@ The Diary Entry App is a mobile application developed for Android devices that a
 - Entry Display: Displays previously saved diary entries with dates.
 - Search and Filter: Advanced functionality to filter entries by date or search for specific entries.
 - Persistent Storage: Stores diary entries using SQLite database for scalability.
+
+## License
+This project is licensed under the [MIT License](./LICENSE.txt).
+
+## Contact
+For any questions, feedback, or collaborations, feel free to reach out:
+- Email: uzairahmedrak@gmail.com
